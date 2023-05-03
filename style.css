@@ -1,0 +1,26 @@
+h1 {
+    color:#00aeff
+}
+.header {
+    color: lightblue;
+    border: 2px;
+    background-color: #c78a8a;
+
+    display:flex;
+    justify-content: space-between;
+}
+.grid {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.item {
+    border: solid;
+}
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}
+img {
+    width:250px; height:250px;
+}
